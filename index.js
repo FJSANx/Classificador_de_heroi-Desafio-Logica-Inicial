@@ -1,10 +1,11 @@
-// git add .
-// git commit -m "Mensagem do commit"
-// git push -u origin main
+// Definir Nome do Herói
 let nomeDoHeroi = "Gladiador";
+// Definir Experiência do Herói
 let experiencia = 9550;
+// Definir Nível do Herói com base na Experiência
 let nivelHeroi;
 
+// Lógica para determinar o nível do herói com base na experiência
 if(experiencia < 1000) {
     nivelHeroi = "Ferro";
 }
@@ -29,5 +30,5 @@ else if(experiencia >= 9001 && experiencia <= 10000) {
 else if(experiência >= 10001) {
     nivelHeroi = "Radiante";
 }
-
+// Exibir o resultado
 console.log("O herói " + nomeDoHeroi + " está no nível " + nivelHeroi + " com " + experiencia + " de experiência.");
