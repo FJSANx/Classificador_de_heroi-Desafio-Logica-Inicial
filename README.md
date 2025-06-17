@@ -1,0 +1,1 @@
+Este repositório está sendo utilizado para a execução do primeiro projeto do curso de Formação em Lógica de Programação ministrado pelo professor Felipão da DIO para treinar o que fora aprendido nos módulos iniciais, lidando com variáveis, laços de repetição, estruturas de decisão, condicionais, etc.
